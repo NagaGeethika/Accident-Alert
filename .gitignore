@@ -1,0 +1,33 @@
+.env
+# Block your private config file
+config.json
+# Block any text files with account info
+#Twilio Account*
+
+# --- PYTHON CACHE ---
+__pycache__/
+venv/
+*.pyc
+*.txt
+
+# --- LARGE FILES & DATA ---
+*.mp4
+!accident_alert_video.mp4
+
+# Block all models/weights
+*.keras
+*.h5
+model_weights.keras
+
+# Block all data files & folders
+*.csv
+Crash Table.csv
+CrashBest/
+dataset_sequenced/
+test_data/
+training_data/
+validation_data/
+
+# Block generated images
+accident_photos/
+*.png
