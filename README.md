@@ -23,7 +23,7 @@ Emergency Call: The Twilio API makes an automated voice call with the location d
 🧩 Tech Stack
 🔹 AI & Machine Learning
 
-TensorFlow & Keras – Used to build and train the VGG16 model with Transfer Learning.
+TensorFlow & Keras – Used to build and train the  model with Transfer Learning.
 
 Scikit-learn – For metrics like Precision, Recall, and F1-Score, and to handle class imbalance.
 
