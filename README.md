@@ -46,3 +46,5 @@ Tkinter – Creates the confirmation pop-up window.(Due to limited free trails i
 Dotenv (.env) – Securely stores API keys and credentials.
 
 ✅ This project combines deep learning, computer vision, and cloud APIs to create a real-time alert system that can make roads safer through intelligent automation.
+
+Contributors: Naga Geethika ,Divya Sri, Harshitha, Bhavana vasantha, Yamini
